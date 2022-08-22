@@ -64,7 +64,8 @@ nav > a {
 nav > a:hover{
     background-color:#0b5f2f;
     padding: 10px;
-    transition: 1s;
+    transition: 0.5s;
+    color: #3ddc84;
    
 }
 main{
